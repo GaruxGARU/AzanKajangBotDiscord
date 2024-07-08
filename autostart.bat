@@ -1,2 +1,2 @@
-cd C:\Users\VP\Documents\discordbotvoice>
+cd C:/Users/VP/Documents/discordbotvoice
 node ./bot.js
