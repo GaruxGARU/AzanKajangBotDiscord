@@ -1,0 +1,15 @@
+npm install discord.js @discordjs/voice node-schedule ffmpeg-static
+npm install libsodium-wrappers
+npm install csv-parser
+
+--link waktu solat 
+https://www.e-solat.gov.my/index.php?siteId=24&pageId=24
+
+
+--guide
+https://discordjs.guide/voice/audio-resources.html#creation
+
+--node version controller (nvm)
+https://github.com/coreybutler/nvm-windows/releases
+nvm install 18
+nvm use 18
